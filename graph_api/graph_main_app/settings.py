@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-^n&2c=oa_)l_gpaxt&0)q+j5_z157*f&6v!l)k)&d5s1j6)c8w
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['lbgraphapiconnector.azurewebsites.net']
+ALLOWED_HOSTS = ['lbgraphapiconnector.azurewebsites.net','localhost','127.0.0.1']
 
 
 # Application definition
